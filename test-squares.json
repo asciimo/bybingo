@@ -1,0 +1,44 @@
+{
+  "B" : [
+    "red",
+    "blue",
+    "green",
+    "indigo",
+    "violet",
+    "orange"
+],
+  "I" : [
+    "fudge",
+    "vanilla",
+    "chocolate",
+    "cinnamon",
+    "peanut butter",
+    "carrot cake"
+],
+  "N" : [
+    "ferrari",
+    "giraffe",
+    "bear",
+    "above ground pool",
+    "garage",
+    "satellite",
+    "refrigerator"
+],
+  "G" : [
+    "monster",
+    "penguin",
+    "chalk",
+    "mauve",
+    "surface",
+    "does not compute",
+    "running slowly"
+],
+  "O" : [
+    "pestilence",
+    "hot rod",
+    "uncomfortable",
+    "taller than him",
+    "pasta",
+    "ice cream"
+]
+}
